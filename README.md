@@ -7,13 +7,13 @@
 #### Usually, Several firms are competing for market share & this makes financial transparency & insight even more critical.
 
 ## We'll be analyzing the data set for: 
-1. what're the most profitable products
-2. which packages of these products are preferred by clients
-3. what's the optimal size clients prefer to buy 
+1. What are the most profitable products
+2. Which packages of these products are preferred by clients
+3. What is the optimal size clients prefer to buy 
 4. Furthermore, they operate with a number of key clients and need to find out what's the best course of action to take
 
 ## Our main goal is to build a model that allows the company management to see: 
-1. the volumes that were sold 
+1. The volumes that were sold 
 2. The Revenue
 3. Margins that were obtained
 4. Provide a breakdown per month for
