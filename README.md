@@ -4,7 +4,7 @@
 
 > We'll be using a sample of a Fast moving consumer good industry (FMCG), that involves the production, Sales of non-durable goods such as (soft drinks, processed food & other consumable goods) It's known for its high volumes, Lower Margins & Large Product Portfolios.
 
-#### Usually, there're a number of firms competing for market share & this makes financial transparency & insight even more critical.
+#### Usually, Several firms are competing for market share & this makes financial transparency & insight even more critical.
 
 ## We'll be analyzing the data set for: 
 1. what're the most profitable products
@@ -21,4 +21,4 @@
   2. Brand 
   3. Size & Pack 
    
-#### These are the important indicators that need to be analyzed in order to understand whether the company can improve its product offerings.
+#### These are the important indicators that need to be analyzed to understand whether the company can improve its product offerings.
