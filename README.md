@@ -39,3 +39,15 @@
     7. Warehousing (The cost for keeping the items in the company's warehousing facilities)
  
  > The dataset contains 88,453 records & expands across multiple columns 
+
+## Structure of the report for the data we've extracted from SAP (Creating an Output Structure) :
+* We've extracted data from two seperate years (2015,2016) each'll be analyzed in a seperate column
+1. Volume (One of the most important drives for businesses is volume sold)
+2. Gross Sales income (Revenue for the company before it starts providing discounts for the client)
+3. Discounts
+4. Net Sales (Gross Sales Income - Discounts), it's the primary sales figure viewed by analysts when conducting a financial analysis.
+5. Cost of goods sold
+6. Gross Profit (Net sales - Cost of goods),preliminary prrfit measure that shows how business makes after taking into consideraiton the cost of the products
+7. Distrbution
+8. Warehousing Expenses
+9. Full deliverd Margin, Profatibilty measure that shows how much profit the firm makes when taking into account (the production, warehousing & Transportation)
