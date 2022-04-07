@@ -2,14 +2,14 @@
 
 > In this project we'll be building a model that allows you to elaborate large quantities of data by getting the best of Pivot Table functionalities (GETPIVOTDATA, Slicers), that can improve the reporting of any firm.
 
-> We'll be using a sample of a Fast moving consumer good industry (FMCG), that involves the production, Sales of non-durable goods such as (soft drinks, processed food & other consumable goods) It's known for its high volumes, Lower Margins & Large Product Portfolios.
+> We'll be using a sample of **a Fast moving consumer good industry (FMCG)**, that involves the production, Sales of non-durable goods such as (soft drinks, processed food & other consumable goods) It's known for its high volumes, Lower Margins & Large Product Portfolios.
 
 #### Usually, Several firms are competing for market share & this makes financial transparency & insight even more critical.
 
-## We'll be analyzing the data set for: 
+## We'll be analyzing the data set for:
 1. What are the most profitable products
 2. Which packages of these products are preferred by clients
-3. What is the optimal size clients prefer to buy 
+3. What is the optimal size clients prefer to buy
 4. Furthermore, they operate with a number of key clients and need to find out what's the best course of action to take
 
 ## Our main goal is to build a model that allows the company management to see: 
@@ -41,7 +41,7 @@
  > The dataset contains 88,453 records & expands across multiple columns 
 
 ## Structure of the report for the data we've extracted from SAP (Creating an Output Structure):
-
+ 
 1. Volume (One of the most important drives for businesses is volume sold)
 2. Gross Sales income (Revenue for the company before it starts providing discounts for the client)
 3. Discounts
