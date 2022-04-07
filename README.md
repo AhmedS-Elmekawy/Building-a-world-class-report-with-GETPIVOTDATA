@@ -28,7 +28,7 @@
     1. Material Number (e.g; 12125200)
     2. Material Description (Brand, Size, Pack, Client e.g; Dundy Diet 600ML 6X)
     3. Period (Year & Month e.g; 201601)
-    4. Client Type (e.g; Supermarkets, Grocery, Big-box or Discounters)
+    4. Client Type (e.g; Supermarkets, Grocery, Big-box , or Discounters)
 2. Financial information about the products' sales that we're going to analyze:
     1. Volume (amount of sales)
     2. Gross sales
@@ -36,7 +36,7 @@
     4. Net Sales (Gross sales - discounts)
     5. Cost of goods (How much's spent to produce the product)
     6. Distribution (transport expenses that have been sustained to deliver the product to the client)
-    7. Warehousing (The cost for keeping the items in the company's warehousing facilities)
+    7. Warehousing (The cost of keeping the items in the company's warehousing facilities)
  
  > The dataset contains 88,453 records & expands across multiple columns 
 
@@ -51,3 +51,17 @@
 7. Distribution
 8. Warehousing Expenses
 9. Full delivered Margin, Profatibilty measure that shows how much profit the firm makes when taking into account (the production, warehousing & Transportation)
+
+## Inserting Formulas & Automating Calculations:
+
+1. Net sales = Gross Sales income + Discounts(-ve value)
+2. Gross Profit = Net sales + Cost of The Goods Sold(-ve value)
+3. Full Delivered Margin = Gross Profit + Distrbution(-ve value) + Warehousing(-ve value)
+4. Two types of variation calculations on the right (Absloute Variation & Percentage variation)
+      1. Absolute variation: value observed in 2016 - value observed in 2015
+      2. Percentage variation: quantity observed in 2016 / quantity observed in 2015 -1
+5. include a few KPI Ratios & prepare their formulas
+      1. Gross Profit % : gross profit / Net Sales
+      2. FDM % : Full deliverd Margin / Net Sales
+
+> Then Create an automatically Updated Pivot table that serves as a source for this report
